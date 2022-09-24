@@ -11,16 +11,14 @@ REMEMBER, YOU MUST HOLD KOALIFY.io NFT ON THE WALLET THAT YOU WILL IMPORT INTO B
 
 Not holding Koalify.io NFT on your wallet?
 
--> Simply MINT one from https://koalify.io/mint
+-> Simply buy one from Opensea
 ***********************
 ```
 
 
 
 # Installation and Instructions
-1. Download Koalify NFT Sniping Bot from https://koalify.io/labs
-
-2. Run snipev1_0.exe
+1. Run snipev1_0.exe
 
 
 # Wait until small window for entering details appear
